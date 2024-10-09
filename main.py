@@ -130,6 +130,10 @@ def game_over():
     )
 
 
+def start_over():
+    pass
+
+
 window = tk.Tk()
 window.title("Snake Game")
 window.resizable(False, False)
